@@ -1,6 +1,6 @@
 # Dark Facebook Cloner (DFC)
 
-![Dark Facebook Cloner Logo](./assets/logo.png)
+![Dark Facebook Cloner Logo](logo.png)
 
 [![GitHub Stars](https://img.shields.io/github/stars/TheRealofClassicHackers/Dark_Facebook_Clone?style=social)](https://github.com/TheRealofClassicHackers/Dark_Facebook_Clone/stargazers)
 [![Forks](https://img.shields.io/github/forks/TheRealofClassicHackers/Dark_Facebook_Clone?style=social)](https://github.com/TheRealofClassicHackers/Dark_Facebook_Clone/fork)
